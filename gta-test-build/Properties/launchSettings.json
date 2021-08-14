@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "gta-test-build": {
+      "commandName": "Executable",
+      "executablePath": "W:\\GTA_MOD_DEVELOPMENT_SERVER\\server\\altv-server.exe",
+      "workingDirectory": "W:\\GTA_MOD_DEVELOPMENT_SERVER\\server"
+    }
+  }
+}
